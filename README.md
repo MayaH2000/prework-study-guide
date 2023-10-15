@@ -12,6 +12,7 @@ N/A
 This repository can be used as a refresher for coding terminology, step by step processes, and detailed explanations for HTML, CSS, Javascript and Git, and how to use them!
 
 ## Screenshots
+<img width="1470" alt="Screenshot 2023-10-15 at 6 26 37 PM" src="https://github.com/MayaH2000/prework-study-guide/assets/101356128/5562e5a5-3dc7-4df7-9847-f2e886f4e725">
 
 
 ## Credits  
